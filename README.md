@@ -98,7 +98,7 @@ The machine learning and deep learning models used in this project were trained 
 
 👉 Access Training Notebooks  
 
-🔗 Add your Google Drive / Colab link here  
+🔗 [(https://drive.google.com/drive/folders/1wxuq_Q7n31JweoSuOfZKnr-9dHXgi-nP?usp=drive_link)]
 
 All training notebooks include preprocessing, model training, evaluation, and saving of trained models for deployment.
 
